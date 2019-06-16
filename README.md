@@ -1,2 +1,2 @@
 # filteredFileSelector
-Custom selector that limits filetypes and filesize of uploads.
+Custom JQuery selector that limits filetypes and filesize of uploads.
